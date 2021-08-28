@@ -1,0 +1,130 @@
+body{
+    font-family: fantasy;
+}
+#cta{
+    background-color: crimson;
+    padding: 5% 15%;
+    text-align: center;
+    height: 250px;
+}
+.ch{
+    font-size: 3rem;
+    line-height: 1.7rem;
+}
+.db{
+    margin-top: 4.5%;
+    margin-bottom: 0%;
+    margin-right: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title{
+    background-color: rgb(245, 90, 90);
+}
+h1{
+    font-family: fantasy;
+    font-size: 3.5rem;
+    line-height: 1.1;
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+.download-button{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5% 5% 3% 0%;
+}
+.navbar-brand{
+
+    font-family: monospace;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+ul{
+    font-family: serif;
+    font-size: large;
+}
+.navbar{
+    padding: 0rem 0.5rem;
+    margin-bottom: 5rem;
+}
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 20%;
+    left: 20%;
+    height: 190%;
+}
+#features{
+    
+    background-color: white;
+    z-index: 1;
+    position: relative;
+}
+.feature-box{
+    text-align: center;
+    padding: 8%;
+}
+h3{
+    font-weight: bold;
+    font-size: 2.2rem;
+}
+p{
+    color: black;
+    font-weight: 500;
+}
+.icon{
+    color: rgb(245, 90, 90);
+    margin: 15px;
+}
+.icon:hover{
+    color: rebeccapurple;
+}
+#testimonials{
+    
+    text-align: center;
+    font-size: 2rem;
+    background-color: khaki;
+    color: black;
+    margin-top: 0px;
+    
+}
+h2{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.testimonial-image{
+    width: 20%;
+    border-radius: 60%;
+}
+#press{
+    background-color: bisque;
+    text-align: center;
+    padding: 20px;
+    
+}
+.carousel-item{
+    padding: 5% 10%;
+    padding-bottom: 4%;
+
+}
+.press-img{
+    width: 15%;
+    margin: 0px 30px 10px 10px;
+}
+#pricing{
+    padding: 100px;
+}
+.pcol{
+    padding: 3% 2%;
+    text-align: center;
+}
+#footer{
+    text-align: center;
+    padding: 2% 15%;
+    margin-top: 1.5%;
+    font-size: large;
+    font-weight: bolder;
+}
+.si{
+    margin: 20px 10px;
+}
